@@ -1,0 +1,4 @@
+#Thu Jun 27 11:47:45 IST 2019
+base.0=/home/user/Desktop/ProfileScreen/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
